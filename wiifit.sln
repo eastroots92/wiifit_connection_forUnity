@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiifit", "Assembly-CSharp.csproj", "{14165854-9DC9-7C05-CD8C-D1CF366D48DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14165854-9DC9-7C05-CD8C-D1CF366D48DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14165854-9DC9-7C05-CD8C-D1CF366D48DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14165854-9DC9-7C05-CD8C-D1CF366D48DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14165854-9DC9-7C05-CD8C-D1CF366D48DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
